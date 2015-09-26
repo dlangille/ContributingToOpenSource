@@ -11,15 +11,15 @@ Som användare kommer du att ha olika kompetenser och kunskap från att använda
 
 ## Dokumentera
 
-Medan du svarar på dessa frågor får du lära dig vilka delar av dokumentationen är oriktiga eller vilseledande. Därifrån är det ett ganska enkelt steg för att uppdatera befintliga dokument för att hjälpa nybörjare. Detta kommer i sin tur att minska antalet frågor du måste besvara.
+Medan du svarar på dessa frågor får du lära dig vilka delar av dokumentationen som är oriktiga eller vilseledande. Därifrån är det ett ganska enkelt steg till att uppdatera befintliga dokument för att hjälpa nybörjare. Detta kommer i sin tur att minska antalet frågor du måste besvara.
 
-Om du upprepade gånger får svara på samma fråga, har du hittat en plats där dokumenationen kan förbättras. Ändring av dokumentationen innebär att du kommer att behöva svara på den frågan mindre och få mer tid att göra andra saker.
+Om du upprepade gånger får svara på samma fråga, har du hittat en plats där dokumentationen kan förbättras. Ändring av dokumentationen innebär att du kommer att behöva svara på den frågan färre gånger och få mer tid att göra andra saker.
 
 ## Biljetter
 
 Du kan följa nya biljetter och bekräfta buggar. Detta är ganska enkelt.
 
-Du kan skriva om vad du gör. När du först installerar programvaran, skriv ner allt du gör. Av särskilt intresse för andra är de problem som du stött på och hur du löste det. Skriv detta i ett blogginlägg och andra kommer att finna det användbart när de stöter på samma problem.
+Du kan skriva om vad du gör. När du först installerar programvaran, skriv ner allt du gör. Av särskilt intresse för andra är de problem som du stött på och hur du löste dem. Skriv detta i ett blogginlägg och andra kommer att finna det användbart när de stöter på samma problem.
 
 ## Provning
 
