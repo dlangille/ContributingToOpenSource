@@ -2,7 +2,11 @@
 
 Ein Test Repo zum Lernen
 
+<<<<<<< HEAD
 Beiträge zu Open Source Projekten erfordern keine Programmierkenntnisse. Es gibt mehrere Möglichkeiten an einem Projekt beizutragen, ohen Programmieren zu können.
+=======
+Beitrag zur Open Source erfordert keine Programmierkenntnisse. Es gibt mehrere Möglichkeiten, wie Sie, ohne zu wissen, wie man programmiert zu Open Source beizutragen können.
+>>>>>>> 5869edbff64aecc643bd1aaa1d62efd8267d338e
 
 
 ## Beantworten
