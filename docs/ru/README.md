@@ -15,6 +15,9 @@
 Когда вы отвечаете на те вопросы, вы понимаете, какие части документации некорректны или вводят в заблуждение. Здесь довольно просто обновить существующие документы, чтобы помочь новичкам. Это в свою очередь уменьшит количество вопросов, на которые вы должны отвечать.
 
 // TODO later
+===
+Few more changes
+===
 If you are repeatedly answering the same question, you have found a place where the documenation can be improved.  Amending the documentation means you will answer that question less and have more time to do other things.
 
 ## Tickets
