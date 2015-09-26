@@ -30,6 +30,8 @@ As a experienced user, you can run beta or pre-release version of the software b
 
 ## Some useful tips
 
+If you are experiencing public key - access denial - issues when connecting to github using the console, please have a the following website: https://help.github.com/articles/generating-ssh-keys/
+
 Once I have done a fork in GitHub, how do I update my local copy without using the terminal? (in terminal would be as simple as git pull).
 
 It is simple, press the create pull request button and switch base so that instead of proposing updating your changes to origin you intend to download origin changes to your repo. Then you can accept and pull. It will create a commit in your local copy as a result of the merge. After that, you will be able to see the new changes also in your local copy.
