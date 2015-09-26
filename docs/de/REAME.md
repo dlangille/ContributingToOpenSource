@@ -2,7 +2,7 @@
 
 Ein Test Repo zum Lernen
 
-Beitrag zur Open Source erfordert keine Programmierkenntnisse. Es gibt mehrere Möglichkeiten, wie Sie können, ohne zu wissen, wie man programmiert beizutragen.
+Beitrag zur Open Source erfordert keine Programmierkenntnisse. Es gibt mehrere Möglichkeiten, wie Sie, ohne zu wissen, wie man programmiert zu Open Source beizutragen können.
 
 
 ## Beantworten
