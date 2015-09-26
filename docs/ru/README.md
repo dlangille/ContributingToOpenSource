@@ -9,11 +9,12 @@
 Как пользователь, вы приобретете некоторые навыки и знания из использнваия инструментов, предоставляемых проектом.
 Вы можете делиться этим опытом с новыми людьми, вовлеченными в проект, отвечая на вопросы в списках рассылки, форумах или IRC. Отвечая на вопросы новичков, вы помогаете начинающим, что является важным шагом в любом проекте. Неработающий софт является главной причиной, почему люди в итоге выбирают что-то другое.
 
-// TODO later
+
 ## Documenting
 
-While you are answering those questions, you learn what parts of the documenation are incorrect or misleading.  From there, it is a fairly easy step to update the existing documents to help the newbies.  This will in turn reduce the number of questionws you have to answer.
+Когда вы отвечаете на те вопросы, вы понимаете, какие части документации некорректны или вводят в заблуждение. Здесь довольно просто обновить существующие документы, чтобы помочь новичкам. Это в свою очередь уменьшит количество вопросов, на которые вы должны отвечать.
 
+// TODO later
 If you are repeatedly answering the same question, you have found a place where the documenation can be improved.  Amending the documentation means you will answer that question less and have more time to do other things.
 
 ## Tickets
