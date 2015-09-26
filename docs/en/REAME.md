@@ -31,3 +31,9 @@ You can write about what you are doing.  When you first install the software, wr
 ## Testing
 
 As a experienced user, you can run beta or pre-release version of the software before the next release comes out. If you find a bug, it can be fixed before the release.  Bugs that are fixed before the release reduces the number of support questions.
+
+## Some useful tips
+
+Once I have done a fork in GitHub, how do I update my local copy without using the terminal? (in terminal would be as simple as git pull).
+
+It is simple, press the create pull request button and switch base so that instead of proposing updating your changes to origin you intend to download origin changes to your repo. Then you can accept and pull. It will create a commit in your local copy as a result of the merge. After that, you will be able to see the new changes also in your local copy.
