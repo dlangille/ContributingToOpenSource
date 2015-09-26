@@ -22,4 +22,4 @@ Du kan skriva om vad du gör. När du först installerar programvaran, skriv ner
 
 ## Provning
 
-Som en erfaren användare kan du köra beta- eller förhandsversioner av programvaran innan nästa utgåva kommer ut. Om du hittar ett fel, kan det fastställas innan release. Buggar som fixas innan utgivningen minskar antalet supportfrågor.
+Som en erfaren användare kan du köra beta- eller förhandsversioner av programvaran innan nästa utgåva kommer ut. Om du hittar ett fel, kan det fixas innan release. Buggar som fixas innan utgivningen minskar antalet supportfrågor.
