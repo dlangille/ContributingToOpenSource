@@ -13,12 +13,11 @@ kupata kazi Sofware ni sababu kubwa kwa nini watu kuchagua kitu kingine.
 
 Kuhifadhi
 
-Wakati wewe ni kujibu maswali hayo, wewe kujifunza nini maeneo ya Documenation ni sahihi au kupotosha. Kutoka huko, ni
-hatua ya haki rahisi ya kuboresha nyaraka zilizopo ili kusaidia Newbies. Hii kwa upande Kupunguza idadi ya questionws
-Una kujibu.
+Wakati wewe ni kujibu maswali hayo, wewe kujifunza nini sehemu ya nyaraka ni sahihi au kupotosha. Kutoka huko, ni hatua
+ya haki rahisi ya kuboresha nyaraka zilizopo ili kusaidia Newbies. Hii kwa upande Kupunguza idadi ya maswali na kujibu.
 
-Kama wewe ni kurudia kujibu swali moja, utasikia wamegundua mahali ambapo Documenation inaweza kuboreshwa. Amina Ding
-nyaraka Ina maana Wewe Je kujibu swali Hiyo kidogo na kuwa na muda zaidi wa kufanya mambo mengine.
+Kama wewe ni kurudia kujibu swali moja, utasikia wamegundua mahali ambapo nyaraka inaweza kuboreshwa. Amina Ding nyaraka
+Ina maana Wewe Je kujibu swali Hiyo kidogo na kuwa na muda zaidi wa kufanya mambo mengine.
 
 Tiketi
 
@@ -31,5 +30,5 @@ Wakati Wao kukutana na matatizo sawa.
 Upimaji
 
 Kama user uzoefu, unaweza kuendesha beta au kabla ya kutolewa toleo la programu kabla ya kutolewa ijayo hutoka nje. Kama
-wewe kupata mdudu, inaweza kuwa fasta kabla ya kutolewa. Mende fasta kabla ya kutolewa Hupunguza idadi ya maswali
-msaada.
+wewe kupata mdudu, inaweza kuwa fasta kabla ya kutolewa. Kwamba mende ni fasta kabla ya kutolewa Hupunguza idadi ya
+maswali msaada.
